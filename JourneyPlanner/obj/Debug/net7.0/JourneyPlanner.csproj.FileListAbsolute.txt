@@ -1,0 +1,15 @@
+C:\Users\yoges\RiderProjects\JourneyPlanner\JourneyPlanner\bin\Debug\net7.0\JourneyPlanner.exe
+C:\Users\yoges\RiderProjects\JourneyPlanner\JourneyPlanner\bin\Debug\net7.0\JourneyPlanner.deps.json
+C:\Users\yoges\RiderProjects\JourneyPlanner\JourneyPlanner\bin\Debug\net7.0\JourneyPlanner.runtimeconfig.json
+C:\Users\yoges\RiderProjects\JourneyPlanner\JourneyPlanner\bin\Debug\net7.0\JourneyPlanner.dll
+C:\Users\yoges\RiderProjects\JourneyPlanner\JourneyPlanner\bin\Debug\net7.0\JourneyPlanner.pdb
+C:\Users\yoges\RiderProjects\JourneyPlanner\JourneyPlanner\obj\Debug\net7.0\JourneyPlanner.csproj.AssemblyReference.cache
+C:\Users\yoges\RiderProjects\JourneyPlanner\JourneyPlanner\obj\Debug\net7.0\JourneyPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoges\RiderProjects\JourneyPlanner\JourneyPlanner\obj\Debug\net7.0\JourneyPlanner.AssemblyInfoInputs.cache
+C:\Users\yoges\RiderProjects\JourneyPlanner\JourneyPlanner\obj\Debug\net7.0\JourneyPlanner.AssemblyInfo.cs
+C:\Users\yoges\RiderProjects\JourneyPlanner\JourneyPlanner\obj\Debug\net7.0\JourneyPlanner.csproj.CoreCompileInputs.cache
+C:\Users\yoges\RiderProjects\JourneyPlanner\JourneyPlanner\obj\Debug\net7.0\JourneyPlanner.dll
+C:\Users\yoges\RiderProjects\JourneyPlanner\JourneyPlanner\obj\Debug\net7.0\refint\JourneyPlanner.dll
+C:\Users\yoges\RiderProjects\JourneyPlanner\JourneyPlanner\obj\Debug\net7.0\JourneyPlanner.pdb
+C:\Users\yoges\RiderProjects\JourneyPlanner\JourneyPlanner\obj\Debug\net7.0\JourneyPlanner.genruntimeconfig.cache
+C:\Users\yoges\RiderProjects\JourneyPlanner\JourneyPlanner\obj\Debug\net7.0\ref\JourneyPlanner.dll
